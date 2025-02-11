@@ -53,3 +53,5 @@
 4. Human Evaluation
 
 ## Interesting Notes from Piazza
+
+- [Scaling Laws for Neural Language Models](https://arxiv.org/pdf/2001.08361) by OpenAI in 2020
